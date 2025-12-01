@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center"><strong>Eyver (eyverf2)</strong></h1>
+<h3 align="center">Senior Cybersecurity Researcher | Backend Engineer | Open-Source Innovator</h3>
 
-<!--
-**eyverf2/eyverf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=eyverf2&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Stats Widget" />
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Profile
+
+```js
+const eyverf2 = {
+    name: 'Eyver',
+    role: 'Senior Cybersecurity Researcher',
+    expertise: [
+        'Offensive Security',
+        'OSINT',
+        'Digital Forensics',
+        'Advanced Vulnerability Research',
+        'Security Tool Development',
+    ],
+    technicalSkills: [
+        'Python',
+        'Metasploit',
+        'Burp Suite',
+        'Autopsy',
+        'TheHarvester',
+        'Exploit Development',
+        'Reverse Engineering',
+        'Penetration Testing Frameworks',
+    ],
+    professionalObjectives: [
+        'Lead cutting-edge research in offensive security and exploit development',
+        'Develop high-impact open-source cybersecurity tools',
+        'Establish thought leadership in the global cybersecurity community',
+    ],
+};
+```
+
+## Visitor Metrics
+
+<p align="center"> <img src="https://count.getloli.com/get/@eyverf2?theme=moebooru" alt="Visitor Count" /> </p>
